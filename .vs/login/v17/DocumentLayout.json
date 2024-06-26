@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "D:\\login new\\login\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B69D5536-A71C-4860-899A-96D742612A5E}|login\\login.csproj|D:\\login new\\login\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B69D5536-A71C-4860-899A-96D742612A5E}|login\\login.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B69D5536-A71C-4860-899A-96D742612A5E}|login\\login.csproj|D:\\login new\\login\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B69D5536-A71C-4860-899A-96D742612A5E}|login\\login.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B69D5536-A71C-4860-899A-96D742612A5E}|login\\login.csproj|D:\\login new\\login\\login\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B69D5536-A71C-4860-899A-96D742612A5E}|login\\login.csproj|solutionrelative:login\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B69D5536-A71C-4860-899A-96D742612A5E}|login\\login.csproj|D:\\login new\\login\\login\\trainingmode.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B69D5536-A71C-4860-899A-96D742612A5E}|login\\login.csproj|solutionrelative:login\\trainingmode.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B69D5536-A71C-4860-899A-96D742612A5E}|login\\login.csproj|D:\\login new\\login\\login\\trainingmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B69D5536-A71C-4860-899A-96D742612A5E}|login\\login.csproj|solutionrelative:login\\trainingmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B69D5536-A71C-4860-899A-96D742612A5E}|login\\login.csproj|D:\\login new\\login\\login\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B69D5536-A71C-4860-899A-96D742612A5E}|login\\login.csproj|solutionrelative:login\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B69D5536-A71C-4860-899A-96D742612A5E}|login\\login.csproj|d:\\login new\\login\\login\\trainingmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B69D5536-A71C-4860-899A-96D742612A5E}|login\\login.csproj|solutionrelative:login\\trainingmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B69D5536-A71C-4860-899A-96D742612A5E}|login\\login.csproj|D:\\login new\\login\\login\\trainingmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B69D5536-A71C-4860-899A-96D742612A5E}|login\\login.csproj|solutionrelative:login\\trainingmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B69D5536-A71C-4860-899A-96D742612A5E}|login\\login.csproj|d:\\login new\\login\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B69D5536-A71C-4860-899A-96D742612A5E}|login\\login.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B69D5536-A71C-4860-899A-96D742612A5E}|login\\login.csproj|d:\\login new\\login\\login\\trainingmode.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B69D5536-A71C-4860-899A-96D742612A5E}|login\\login.csproj|solutionrelative:login\\trainingmode.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B69D5536-A71C-4860-899A-96D742612A5E}|login\\login.csproj|D:\\login new\\login\\login\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B69D5536-A71C-4860-899A-96D742612A5E}|login\\login.csproj|solutionrelative:login\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B69D5536-A71C-4860-899A-96D742612A5E}|login\\login.csproj|D:\\login new\\login\\login\\addclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,57 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form4.cs [Design]",
-              "DocumentMoniker": "D:\\login new\\login\\login\\Form4.cs",
-              "RelativeDocumentMoniker": "login\\Form4.cs",
-              "ToolTip": "D:\\login new\\login\\login\\Form4.cs [Design]",
-              "RelativeToolTip": "login\\Form4.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T06:55:56.519Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\login new\\login\\login\\Form1.cs",
-              "RelativeDocumentMoniker": "login\\Form1.cs",
-              "ToolTip": "D:\\login new\\login\\login\\Form1.cs",
-              "RelativeToolTip": "login\\Form1.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAE8AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T10:14:31.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\login new\\login\\login\\Form1.cs",
-              "RelativeDocumentMoniker": "login\\Form1.cs",
-              "ToolTip": "D:\\login new\\login\\login\\Form1.cs [Design]",
-              "RelativeToolTip": "login\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T08:10:49.354Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "trainingmode.Designer.cs",
-              "DocumentMoniker": "D:\\login new\\login\\login\\trainingmode.Designer.cs",
-              "RelativeDocumentMoniker": "login\\trainingmode.Designer.cs",
-              "ToolTip": "D:\\login new\\login\\login\\trainingmode.Designer.cs",
-              "RelativeToolTip": "login\\trainingmode.Designer.cs",
-              "ViewState": "AQIAAP8AAAAAAAAAAAAgwAsBAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T13:40:35.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "D:\\login new\\login\\login\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "login\\Form1.Designer.cs",
@@ -132,12 +82,11 @@
               "RelativeToolTip": "login\\Form1.Designer.cs",
               "ViewState": "AQIAAP4AAAAAAAAAAAAgwAoBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T06:11:10.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T06:11:10.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "trainingmode.cs [Design]",
               "DocumentMoniker": "D:\\login new\\login\\login\\trainingmode.cs",
               "RelativeDocumentMoniker": "login\\trainingmode.cs",
@@ -149,15 +98,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "D:\\login new\\login\\login\\Form4.cs",
+              "RelativeDocumentMoniker": "login\\Form4.cs",
+              "ToolTip": "D:\\login new\\login\\login\\Form4.cs [Design]",
+              "RelativeToolTip": "login\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:55:56.519Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "trainingmode.cs",
               "DocumentMoniker": "D:\\login new\\login\\login\\trainingmode.cs",
               "RelativeDocumentMoniker": "login\\trainingmode.cs",
               "ToolTip": "D:\\login new\\login\\login\\trainingmode.cs",
               "RelativeToolTip": "login\\trainingmode.cs",
-              "ViewState": "AQIAAHoAAAAAAAAAAAAYwIMAAAAHAAAA",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAuwGEAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-24T11:32:40.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\login new\\login\\login\\Form1.cs",
+              "RelativeDocumentMoniker": "login\\Form1.cs",
+              "ToolTip": "D:\\login new\\login\\login\\Form1.cs",
+              "RelativeToolTip": "login\\Form1.cs",
+              "ViewState": "AQIAAEgAAADgmZmZmVk7wFkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:14:31.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\login new\\login\\login\\Form1.cs",
+              "RelativeDocumentMoniker": "login\\Form1.cs",
+              "ToolTip": "D:\\login new\\login\\login\\Form1.cs [Design]",
+              "RelativeToolTip": "login\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:10:49.354Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "trainingmode.Designer.cs",
+              "DocumentMoniker": "D:\\login new\\login\\login\\trainingmode.Designer.cs",
+              "RelativeDocumentMoniker": "login\\trainingmode.Designer.cs",
+              "ToolTip": "D:\\login new\\login\\login\\trainingmode.Designer.cs",
+              "RelativeToolTip": "login\\trainingmode.Designer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:15:05.798Z",
               "EditorCaption": ""
             },
             {
